@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7EEF2798-F0C8-4DCF-9BF1-658D57DC26F2}</ProjectGuid>
+    <ProjectGuid>{C9E7B074-1BAE-4344-ABD9-5D948472D68E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SignosDelZodiaco</RootNamespace>
-    <AssemblyName>SignosDelZodiaco</AssemblyName>
+    <RootNamespace>Zodiaco</RootNamespace>
+    <AssemblyName>Zodiaco</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -41,9 +41,12 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="TareaBiblioteca">
+      <HintPath>..\TareaBiblioteca\bin\Debug\TareaBiblioteca.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Signos.cs" />
+    <Compile Include="SignosZodi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

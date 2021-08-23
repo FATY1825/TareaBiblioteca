@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaBiblioteca", "TareaBiblioteca\TareaBiblioteca.csproj", "{4928CF9C-F932-400F-A332-5727126B5605}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignosDelZodiaco", "SignosDelZodiaco\SignosDelZodiaco.csproj", "{7EEF2798-F0C8-4DCF-9BF1-658D57DC26F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zodiaco", "Zodiaco\Zodiaco.csproj", "{C9E7B074-1BAE-4344-ABD9-5D948472D68E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{4928CF9C-F932-400F-A332-5727126B5605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4928CF9C-F932-400F-A332-5727126B5605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4928CF9C-F932-400F-A332-5727126B5605}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7EEF2798-F0C8-4DCF-9BF1-658D57DC26F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7EEF2798-F0C8-4DCF-9BF1-658D57DC26F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7EEF2798-F0C8-4DCF-9BF1-658D57DC26F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7EEF2798-F0C8-4DCF-9BF1-658D57DC26F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E7B074-1BAE-4344-ABD9-5D948472D68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E7B074-1BAE-4344-ABD9-5D948472D68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E7B074-1BAE-4344-ABD9-5D948472D68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E7B074-1BAE-4344-ABD9-5D948472D68E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
