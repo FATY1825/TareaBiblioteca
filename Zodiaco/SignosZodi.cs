@@ -5,10 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using TareaBiblioteca;
 
-
-namespace SignosDelZodiaco
+namespace Zodiaco
 {
-    class Signos
+    class SignosZodi
     {
         static void Main(string[] args)
         {

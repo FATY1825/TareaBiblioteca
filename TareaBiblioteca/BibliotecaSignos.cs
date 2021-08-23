@@ -43,8 +43,6 @@ namespace TareaBiblioteca
             Console.WriteLine();
             Console.Write("Presiona una tecla para terminar . . . ");
 
-            Console.ReadKey();
-
         }
 
 
